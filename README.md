@@ -1,2 +1,2 @@
 # store_amazing
-a store amazing
+The store amazingest
